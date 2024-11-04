@@ -11,6 +11,3 @@ The single page website is created using some advanced features of HTML and CSS.
 * Flexbox layout
 * CSS-animation
 * The Nested BEM file stucture
-
-## URL:
-**https://dfsf-f.github.io/how-to-learn/**
